@@ -1,4 +1,4 @@
-## File to make bluff-body meshes, where bodies are cylindrical, or have ddddddd
+## File to make bluff-body meshes, where bodies are cylindrical, or have
 ## a requirement to be rotated, or something like that
 
 ## General mesh structure will be body in the centre of a circle, circle
