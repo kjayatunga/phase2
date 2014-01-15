@@ -1,0 +1,2872 @@
+
+
+
+                  ...................................................
+                  .            SE2D 2.00 (24/04/09)                 .
+                  .A High-order Finite-Element (2d Spectral-Element).
+                  ...................................................
+
+
+
+ enter macro keyword        >  executing....input mesh info             
+ enter macro keyword        >  executing....use boundary info (for NS)  
+ enter macro keyword        >  executing....initialize time-stepping    
+ assembling the NR and RHS arrays 
+          forming matrices             0% done
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+  10% done
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+  20% done
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+  30% done
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+  40% done
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+  50% done
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+  61% done
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+  71% done
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+  81% done
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+  91% done
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+ 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+MKL ERROR: Parameter 10 was incorrect on entry to DGEMM 
+
+
+ finished assembling matrices - now inverting
+ STARTING LU DECOMPOSITION 
+ NUMBER OF EQUATIONS =      0
+ NUMBER OF POINTS =      0
+ FORWARD PASS
+          
+
+ STARTING LU DECOMPOSITION 
+ NUMBER OF EQUATIONS =      0
+ NUMBER OF POINTS =      0
+ FORWARD PASS
+          
+
+ STARTING LU DECOMPOSITION 
+ NUMBER OF EQUATIONS =      0
+ NUMBER OF POINTS =      0
+ FORWARD PASS
+          
+
+ enter macro keyword        >  executing....set new bounds              
+ enter xmin >  enter xmax >  enter ymin >  enter xmax >  enter macro keyword        >  executing....plot mesh (tek or PS)       
+ enter macro keyword        >  try again 
+ enter macro keyword        > 

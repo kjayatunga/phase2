@@ -1,0 +1,12 @@
+mesh
+renu
+boun
+delt 0.0005
+init
+forc 2
+step 2000000
+vput
+tecp
+stop
+
+

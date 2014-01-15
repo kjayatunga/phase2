@@ -1,0 +1,14 @@
+mesh 
+bound
+init
+newb
+-2
+2
+-2
+2
+prim
+tekk
+prim mesh.ps
+stop 
+ 
+

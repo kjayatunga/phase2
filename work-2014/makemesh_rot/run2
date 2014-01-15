@@ -1,0 +1,5 @@
+#!/bin/sh
+rm ./mesh.ps
+~/spectral_element/se2d/se2d<run>output
+gs mesh.ps 
+
