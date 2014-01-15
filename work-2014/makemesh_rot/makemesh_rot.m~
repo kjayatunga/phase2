@@ -1,4 +1,4 @@
-## File to make bluff-body meshes, where bodies are cylindrical, or have
+## File to make bluff-body meshes, where bodies are cylindrical, or have ppppppp
 ## a requirement to be rotated, or something like that
 
 ## General mesh structure will be body in the centre of a circle, circle
@@ -283,9 +283,9 @@ curves = 0      # 0 = no curves, 1 = curves
 #   [r,Q,temp,dev(n)] = getrad(xsurf(n),xsurf(1));
 ###########################################################################################################
 ## KJ trying out to add surface points manually
- nsurf = 16;
- xsurf = [0.25, 0,  -0.125, -0.25, -0.375, -0.5, -0.5, -0.5, -0.5,  -0.5, -0.375, -0.25, -0.125, 0,   0.25, 0]';
- ysurf = [0.25, 0.5, 0.5,    0.5,   0.5,   0.5,  0.25,  0,   -0.25, -0.5, -0.5,   -0.5,  -0.5,   -0.5,-0.25,0.5]';
+# nsurf = 16;
+# xsurf = [0.25, 0,  -0.125, -0.25, -0.375, -0.5, -0.5, -0.5, -0.5,  -0.5, -0.375, -0.25, -0.125, 0,   0.25, 0]';
+# ysurf = [0.25, 0.5, 0.5,    0.5,   0.5,   0.5,  0.25,  0,   -0.25, -0.5, -0.5,   -0.5,  -0.5,   -0.5,-0.25,0.5]';
 
 
 
