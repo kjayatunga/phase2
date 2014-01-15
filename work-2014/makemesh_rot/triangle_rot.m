@@ -258,6 +258,10 @@ alpha = -((aoa_degrees)/(180))*pi
    m++;
  endfor
 
+## Scale the square to keep the new frontal width = 1
+lside = 1/(sin(alpha)+cos(alpha));
+xsurf = xsurf.*lside;
+ysurf = ysurf.*lside;
 
 ## Rotate square by alpha
 phi_orig = atan2(ysurf,xsurf);
@@ -274,10 +278,7 @@ r = sqrt(xsurf.^2+ysurf.^2);
 xsurfnew = r.*cos(phi);
 ysurfnew = r.*sin(phi);
 
-## Scale the square to keep the new frontal width = 1
-lside = 1/(sin(alpha)+cos(alpha));
-xsurf = xsurf.*lside;
-ysurf = ysurf.*lside;
+
 
 # Find the new point closest to the x-axis
 [a,b] = min(abs(phi));
